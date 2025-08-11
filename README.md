@@ -2,6 +2,11 @@
 
 EmploymentInsight is a data analysis and visualization project that examines employment trends using Labour Force Survey data and social media sentiment analysis. It identifies patterns, compares employment and unemployment trends across provinces, and presents insights through interactive Power BI dashboards.
 
+## Project Structure
+For a detailed description of each file and folder in this repository, please see the [FILES_OVERVIEW.md](FILES_OVERVIEW.md) document.  
+It provides a clear explanation of the purpose and contents of every component in the project, making it easier to navigate and understand.
+
+
 ## Features
 - Data cleaning and preprocessing of Labour Force Survey data
 - Twitter data sentiment analysis on employment-related discussions
