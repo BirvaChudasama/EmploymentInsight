@@ -32,3 +32,16 @@ It provides a clear explanation of the purpose and contents of every component i
 pip install -r requirements.txt
 ```
 
+
+👩‍💻 Author
+
+Birva PankajKumar Chudasama
+
+🎓 Post Graduate Certificate in Big data Analysis – Georgian College
+
+📍 Based in Ontario, Canada
+
+💼 Interests: Data Analytics, Machine Learning,
+
+🔗 LinkedIn Profile :https://www.linkedin.com/in/birva-chudasama
+
